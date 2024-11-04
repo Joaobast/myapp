@@ -1,8 +1,8 @@
 # Trabalho N2 - Desenvolvimento Mobile 
 
-Catalogo de Jogos.
 
-## Getting Started
+
+## Catalogo de Jogos.
 
 This project is a starting point for a Flutter application.
 
