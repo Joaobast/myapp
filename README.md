@@ -1,6 +1,6 @@
-# myapp
+# Trabalho N2 - Desenvolvimento Mobile 
 
-A new Flutter project.
+Catalogo de Jogos.
 
 ## Getting Started
 
