@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "713843931787",
+    "firebase_url": "https://catalogo-de-jogos-default-rtdb.firebaseio.com",
+    "project_id": "catalogo-de-jogos",
+    "storage_bucket": "catalogo-de-jogos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713843931787:android:6e8919d3de2648fd35728e",
+        "android_client_info": {
+          "package_name": "catalogo.jogos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCffRCIy6xGtvYuxidi42YqDz-7oEoREl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
